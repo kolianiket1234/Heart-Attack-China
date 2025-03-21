@@ -14,16 +14,16 @@ This project focuses on analyzing a heart attack dataset from China and applying
 
 # Machine Learning Models
 ## Logistic Regression
-Applied as a baseline model for binary classification.
-Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
+- Applied as a baseline model for binary classification.
+- Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ## Decision Tree Classifier
-Trained a decision tree model to capture non-linear relationships.
-Fine-tuned hyperparameters (max depth, min samples split).
+- Trained a decision tree model to capture non-linear relationships.
+- Fine-tuned hyperparameters (max depth, min samples split).
 
 ## Random Forest Classifier
-Implemented an ensemble model to enhance performance.
-Feature importance analysis to understand key predictors.
+- Implemented an ensemble model to enhance performance.
+- Feature importance analysis to understand key predictors.
 
 # Model Evaluation
 - Compared models based on confusion matrix, classification report, and AUC-ROC curves.
