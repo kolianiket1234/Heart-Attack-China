@@ -13,15 +13,15 @@ This project focuses on analyzing a heart attack dataset from China and applying
 - Feature Engineering: Created meaningful derived features where necessary.
 
 # Machine Learning Models
-- Logistic Regression
+## Logistic Regression
 Applied as a baseline model for binary classification.
 Evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
-- Decision Tree Classifier
+## Decision Tree Classifier
 Trained a decision tree model to capture non-linear relationships.
 Fine-tuned hyperparameters (max depth, min samples split).
 
-- Random Forest Classifier
+## Random Forest Classifier
 Implemented an ensemble model to enhance performance.
 Feature importance analysis to understand key predictors.
 
