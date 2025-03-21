@@ -2,9 +2,9 @@
 This project focuses on analyzing a heart attack dataset from China and applying machine learning models to predict heart attack risks. The workflow includes Exploratory Data Analysis (EDA), logistic regression, decision tree classifier, and random forest classifier to identify key risk factors and improve predictive performance.
 
 # Dataset
-The dataset contains patient medical records and risk factors associated with heart attacks.
-Features include demographic details, lifestyle habits, medical history, and health indicators.
-The target variable represents the presence or absence of a heart attack.
+- The dataset contains patient medical records and risk factors associated with heart attacks.
+- Features include demographic details, lifestyle habits, medical history, and health indicators.
+- The target variable represents the presence or absence of a heart attack.
 
 # Exploratory Data Analysis (EDA)
 Data Cleaning: Handled missing values, duplicates, and outliers.
