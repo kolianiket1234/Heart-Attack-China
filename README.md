@@ -30,7 +30,6 @@ This project focuses on analyzing a heart attack dataset from China and applying
 - Random Forest outperformed other models with higher accuracy and recall.
 
 # Key Findings & Conclusion
-- High-risk factors include [mention top risk factors from feature importance].
 - Random Forest provided the best performance for heart attack prediction.
 - Potential improvements: More feature engineering, hyperparameter tuning, or testing additional models.
 
