@@ -5,6 +5,7 @@ This project focuses on analyzing a heart attack dataset from China and applying
 - The dataset contains patient medical records and risk factors associated with heart attacks.
 - Features include demographic details, lifestyle habits, medical history, and health indicators.
 - The target variable represents the presence or absence of a heart attack.
+- - <a href = "https://www.kaggle.com/datasets/ankushpanday2/heart-attack-risk-dataset-of-china"> View Dataset </a>
 
 # Exploratory Data Analysis (EDA)
 - Data Cleaning: Handled missing values, duplicates, and outliers.
